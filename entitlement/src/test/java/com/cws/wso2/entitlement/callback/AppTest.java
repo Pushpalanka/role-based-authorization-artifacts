@@ -1,4 +1,4 @@
-package org.wso2.sample.callback;
+package com.cws.wso2.entitlement.callback;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
